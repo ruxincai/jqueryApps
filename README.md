@@ -1,1 +1,1 @@
-# jqueryApps
+# jqueryAppls
